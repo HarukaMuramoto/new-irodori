@@ -1,0 +1,27 @@
+{
+  "name": "nikkeimm-tuqulore-gulp",
+  "version": "1.0.0",
+  "description": "gulptest",
+  "main": "gulpfile.js",
+  "scripts": {
+  },
+  "keywords": [
+    "gulp",
+    "test"
+  ],
+  "author": "frontainer",
+  "license": "(ISC)MIT",
+  "devDependencies": {
+    "browser-sync": "latest",
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "latest",
+    "gulp-html-extend": "^1.1.6",
+    "gulp-plumber": "latest",
+    "gulp-rimraf": "^0.2.0",
+    "gulp-sass": "latest",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-uglify": "latest"
+  },
+  "dependencies": {
+  }
+}
